@@ -1,5 +1,8 @@
+*{
+	font-family: 'Ubuntu', sans-serif;
+}
 h1#title{
-	font-size: 5em;
+	font-size: 4em;
 }
 img#profileImage{
 	width: 200px;
