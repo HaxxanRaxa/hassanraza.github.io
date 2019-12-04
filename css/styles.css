@@ -1,0 +1,15 @@
+h1#title{
+	font-size: 5em;
+}
+img#profileImage{
+	width: 200px;
+	border-width: 2px !important;
+}
+
+#designation{
+	font-size: 1.3em;
+    font-weight: 400;
+}
+
+/*======= common style =======*/
+.h-100vh{ height: 100vh; }
